@@ -1,0 +1,16 @@
+body {
+  color: black;
+  background-color: white;
+  background-image: url(paris.jpg);
+}
+.city {
+  background-color: rgba(89, 71, 255, 0.192);
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.note {
+  font-size: 120%;
+  color: rgb(4, 34, 165);
+}
